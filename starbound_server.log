@@ -1,0 +1,134 @@
+[20:41:24.546] [Info] Root: Preparing Root...
+[20:41:24.548] [Info] Root: Done preparing Root.
+[20:41:24.550] [Info] Root: Scanning for asset sources in directory '..\assets\'
+[20:41:24.551] [Info] Root: Loaded Configuration in 0.0007851 seconds
+[20:41:25.220] [Info] Root: Scanning for asset sources in directory '..\mods\'
+[20:41:26.277] [Warn] Root: Unrecognized file in asset directory 'contents763259329.pak.pakse', skipping
+[20:41:26.495] [Warn] Root: Unrecognized file in asset directory 'mods_go_here', skipping
+[20:41:26.497] [Info] Root: Detected asset source named 'base' at '..\assets\packed.pak'
+[20:41:26.500] [Info] Root: Detected asset source named 'QuickbarMini' at '..\mods\contents1088459034.pak'
+[20:41:26.502] [Info] Root: Detected asset source named 'StardustLib' at '..\mods\contents764887546.pak'
+[20:41:26.504] [Info] Root: Detected asset source named 'Elithian_Races_Mod' at '..\mods\contents850109963.pak'
+[20:41:26.507] [Info] Root: Detected asset source named 'XS Mechs : Modular Edition (BETA)' at '..\mods\contents945707062.pak'
+[20:41:26.509] [Info] Root: Detected asset source named 'FrackinUniverse' at '..\mods\contents729480149.pak'
+[20:41:26.511] [Info] Root: Detected asset source named 'MorePlanetInfo' at '..\mods\contents1117007107.pak'
+[20:41:26.514] [Info] Root: Detected asset source named 'FrackinXmas' at '..\mods\contents1240923709.pak'
+[20:41:26.516] [Info] Root: Detected asset source named 'Shellguard Expansion ' at '..\mods\contents1563376005.pak'
+[20:41:26.519] [Info] Root: Detected asset source named 'MorePlanetInfo-FU' at '..\mods\contents1639501560.pak'
+[20:41:26.521] [Info] Root: Detected asset source named 'FU_ShellguardMech' at '..\mods\contents1686763043.pak'
+[20:41:26.523] [Info] Root: Detected asset source named 'FrackinMusic' at '..\mods\contents729492703.pak'
+[20:41:26.525] [Info] Root: Detected asset source named 'Enhanced Storage' at '..\mods\contents731220462.pak'
+[20:41:26.527] [Info] Root: Detected asset source named 'StarTech' at '..\mods\contents764888606.pak'
+[20:41:26.530] [Info] Root: Detected asset source named 'FrackinActionBars' at '..\mods\contents821455287.pak'
+[20:41:26.533] [Info] Root: Detected asset source named 'bk3k_inventory' at '..\mods\contents882900100.pak'
+[20:41:26.535] [Info] Root: Detected asset source named 'FrackinInterface' at '..\mods\contents1264107917.pak'
+[20:41:26.538] [Info] Root: Detected asset source named 'StardustLibPost' at '..\mods\post764887546.pak'
+[20:41:26.540] [Info] Root: Detected unnamed asset source at '..\assets\user'
+[20:41:26.542] [Info] Loading assets from: '..\assets\packed.pak'
+[20:41:27.257] [Info] Loading assets from: '..\mods\contents1088459034.pak'
+[20:41:27.259] [Info] Loading assets from: '..\mods\contents764887546.pak'
+[20:41:27.264] [Info] Loading assets from: '..\mods\contents850109963.pak'
+[20:41:27.493] [Info] Loading assets from: '..\mods\contents945707062.pak'
+[20:41:27.498] [Info] Loading assets from: '..\mods\contents729480149.pak'
+[20:41:29.068] [Info] Loading assets from: '..\mods\contents1117007107.pak'
+[20:41:29.072] [Info] Loading assets from: '..\mods\contents1240923709.pak'
+[20:41:29.074] [Info] Loading assets from: '..\mods\contents1563376005.pak'
+[20:41:29.170] [Info] Loading assets from: '..\mods\contents1639501560.pak'
+[20:41:29.172] [Info] Loading assets from: '..\mods\contents1686763043.pak'
+[20:41:29.174] [Info] Loading assets from: '..\mods\contents729492703.pak'
+[20:41:29.181] [Info] Loading assets from: '..\mods\contents731220462.pak'
+[20:41:29.211] [Info] Loading assets from: '..\mods\contents764888606.pak'
+[20:41:29.219] [Info] Loading assets from: '..\mods\contents821455287.pak'
+[20:41:29.221] [Info] Loading assets from: '..\mods\contents882900100.pak'
+[20:41:29.224] [Info] Loading assets from: '..\mods\contents1264107917.pak'
+[20:41:29.234] [Info] Loading assets from: '..\mods\post764887546.pak'
+[20:41:29.237] [Info] Loading assets from: '..\assets\user'
+[20:41:30.988] [Info] Assets digest is 26ca809256a4801108f825e5948ff475641449a6ca7fe6b2fe07309fff908495
+[20:41:30.990] [Info] Root: Loaded Assets in 6.44025 seconds
+[20:41:30.994] [Info] Root: Writing runtime configuration to '..\storage\starbound_server.config'
+[20:41:31.001] [Info] Root: Loaded NameGenerator in 6.44707 seconds
+[20:41:31.070] [Info] Root: Loaded PlantDatabase in 0.0665142 seconds
+[20:41:31.499] [Info] Root: Loaded ProjectileDatabase in 0.427891 seconds
+[20:41:31.694] [Info] Root: Loaded ObjectDatabase in 0.70143 seconds
+[20:41:31.875] [Info] Root: Loaded NpcDatabase in 0.180947 seconds
+[20:41:31.879] [Info] Root: Loaded StagehandDatabase in 0.0026097 seconds
+[20:41:31.908] [Info] Root: Loaded VehicleDatabase in 0.0276689 seconds
+[20:41:31.956] [Info] Root: Loaded MonsterDatabase in 0.456377 seconds
+[20:41:31.987] [Info] Root: Loaded PlayerFactory in 0.0775506 seconds
+[20:41:31.991] [Info] Root: Loaded VersioningDatabase in 0.0023566 seconds
+[20:41:31.993] [Info] Root: Loaded EntityFactory in 0.0352074 seconds
+[20:41:32.091] [Info] Root: Loaded ParticleDatabase in 0.0964407 seconds
+[20:41:32.096] [Info] Root: Loaded ImageMetadataDatabase in 1.4e-06 seconds
+[20:41:32.552] [Info] Root: Loaded MaterialDatabase in 0.556118 seconds
+[20:41:32.561] [Info] Root: Loaded TerrainDatabase in 0.0073702 seconds
+[20:41:32.806] [Info] Root: Loaded BiomeDatabase in 0.242622 seconds
+[20:41:32.810] [Info] Root: Loaded LiquidsDatabase in 0.0027787 seconds
+[20:41:32.854] [Info] Root: Loaded StatusEffectDatabase in 0.043374 seconds
+[20:41:33.322] [Info] Root: Loaded DamageDatabase in 0.465759 seconds
+[20:41:33.331] [Info] Root: Loaded EffectSourceDatabase in 0.0074727 seconds
+[20:41:33.357] [Info] Root: Loaded FunctionDatabase in 0.0244133 seconds
+[20:41:33.432] [Info] Root: Loaded TreasureDatabase in 0.0733176 seconds
+[20:41:34.050] [Info] Root: Loaded DungeonDefinitions in 0.601964 seconds
+[20:41:34.052] [Info] Root: Loaded TilesetDatabase in 0.0001917 seconds
+[20:41:34.055] [Info] Root: Loaded StatisticsDatabase in 0.0015893 seconds
+[20:41:34.056] [Info] Root: Loaded EmoteProcessor in 8.75e-05 seconds
+[20:41:34.100] [Info] Root: Loaded SpeciesDatabase in 0.0413551 seconds
+[20:41:34.136] [Info] Root: Loaded QuestTemplateDatabase in 0.0350412 seconds
+[20:41:34.140] [Info] Root: Loaded AiDatabase in 0.0020116 seconds
+[20:41:34.145] [Info] Root: Loaded TechDatabase in 0.0045074 seconds
+[20:41:34.167] [Info] Root: Loaded CodexDatabase in 0.0204799 seconds
+[20:41:34.458] [Info] Root: Loaded BehaviorDatabase in 0.289676 seconds
+[20:41:34.462] [Info] Root: Loaded DanceDatabase in 0.0025458 seconds
+[20:41:34.474] [Info] Root: Loaded SpawnTypeDatabase in 0.0109755 seconds
+[20:41:34.520] [Info] Root: Loaded RadioMessageDatabase in 0.044028 seconds
+[20:41:47.135] [Info] Root: Loaded ItemDatabase in 15.1457 seconds
+[20:41:48.955] [Info] Root: Loaded CollectionDatabase in 14.4328 seconds
+[20:41:49.318] [Info] Server Version 1.4.4 (windows x86_64) Source ID: 8cbe6faf22282659828a194e06a08999f213769e Protocol: 747
+[20:41:49.327] [Info] UniverseServer: Acquiring universe lock file
+[20:41:49.361] [Info] UniverseServer: Loading settings
+[20:41:49.366] [Info] UniverseServer: Starting UniverseServer with UUID: ad1dafdba6076595df7f4fbe1d442569
+[20:41:49.368] [Info] UniverseServer: listening for incoming TCP connections on 0.0.0.0:21025
+[20:42:11.319] [Info] UniverseServer: Connection received from: 177.19.109.6:62093
+[20:42:11.746] [Info] UniverseServer: Logged in account '<anonymous>' as player 'Wit Grey' from address 177.19.109.6
+[20:42:11.774] [Info] UniverseServer: Loading system world (-893889723, -880857266, -56467796) from disk storage
+[20:42:11.849] [Info] UniverseServer: Reviving player at CelestialWorld:-893889524:-880857178:-209854117:7:1
+[20:42:11.852] [Info] UniverseServer: Client 'Wit Grey' <1> (177.19.109.6) connected
+[20:42:11.855] [Info] UniverseServer: Loading celestial world -893889524:-880857178:-209854117:7:1
+[20:42:12.120] [Info] Protected dungeonIds for world set to (65524)
+[20:42:15.054] [Info] UniverseServer: Warping player 1 to CelestialWorld:-893889524:-880857178:-209854117:7:1=30.825.1020
+[20:43:11.641] [Info] UniverseServer: Client 'Wit Grey' <1> (177.19.109.6) disconnected for reason: 
+[20:43:11.654] [Info] UniverseServer: Stopping idle world CelestialWorld:-893889524:-880857178:-209854117:7:1
+[20:43:21.703] [Info] UniverseServer: Reaped 1 dead connections
+[20:44:20.810] [Info] UniverseServer: Connection received from: 177.19.109.6:62106
+[20:44:21.234] [Info] UniverseServer: Logged in account '<anonymous>' as player 'Wit Grey' from address 177.19.109.6
+[20:44:21.256] [Info] UniverseServer: Loading system world (-893889723, -880857266, -56467796) from disk storage
+[20:44:21.361] [Info] UniverseServer: Reviving player at CelestialWorld:-893889524:-880857178:-209854117:7:1
+[20:44:21.364] [Info] UniverseServer: Client 'Wit Grey' <2> (177.19.109.6) connected
+[20:44:21.368] [Info] UniverseServer: Loading celestial world -893889524:-880857178:-209854117:7:1
+[20:44:21.632] [Info] Protected dungeonIds for world set to (65524)
+[20:44:22.604] [Info] UniverseServer: Warping player 2 to CelestialWorld:-893889524:-880857178:-209854117:7:1=37.3.1022
+[20:52:01.977] [Info] UniverseServer: Connection received from: 192.168.1.4:53829
+[20:52:02.073] [Info] UniverseServer: Logged in account '<anonymous>' as player 'Baer Shadekin' from address 192.168.1.4
+[20:52:02.083] [Info] UniverseServer: Loading system world (-195988769, -533918111, 89166393) from disk storage
+[20:52:02.137] [Info] UniverseServer: Reviving player at ClientShipWorld:962fa64c64d8077badcb51fecd7a875a
+[20:52:02.139] [Info] UniverseServer: Client 'Baer Shadekin' <3> (192.168.1.4) connected
+[20:52:02.186] [Info] UniverseServer: Loading client ship world ClientShipWorld:962fa64c64d8077badcb51fecd7a875a
+[20:52:02.305] [Info] Protected dungeonIds for world set to (65524)
+[20:52:02.665] [Info] UniverseServer: Warping player 3 to ClientShipWorld:962fa64c64d8077badcb51fecd7a875a=691.45.1096
+[20:52:40.344] [Info] UniverseServer: Warping player 2 to ClientShipWorld:962fa64c64d8077badcb51fecd7a875a=732.487.1072
+[20:52:40.444] [Info] UniverseServer: Stopping idle world CelestialWorld:-893889524:-880857178:-209854117:7:1
+[20:54:42.079] [Info] UniverseServer: Warping player 3 to ClientShipWorld:962fa64c64d8077badcb51fecd7a875a
+[20:56:57.671] [Info] UniverseServer: Client 'Baer Shadekin' <3> (192.168.1.4) disconnected for reason: 
+[20:56:57.676] [Info] UniverseServer: World ClientShipWorld:962fa64c64d8077badcb51fecd7a875a shutdown, kicking 1 players to their own ships
+[20:56:57.832] [Info] UniverseServer: Loading client ship world ClientShipWorld:69bc848cdb898e9026d7e1f3e20d43ad
+[20:56:57.938] [Info] Protected dungeonIds for world set to (65524)
+[20:56:58.381] [Info] UniverseServer: Warping player 2 to ClientShipWorld:69bc848cdb898e9026d7e1f3e20d43ad
+[20:57:00.887] [Info] UniverseServer: Client 'Wit Grey' <2> (177.19.109.6) disconnected for reason: 
+[20:57:00.891] [Info] UniverseServer: Stopping idle world ClientShipWorld:69bc848cdb898e9026d7e1f3e20d43ad
+[20:57:59.121] [Info] UniverseServer: Reaped 2 dead connections
+[20:57:59.293] [Info] UniverseServer: Reaped 1 dead connections
+[20:58:42.452] [Info] Interrupt caught!
+[20:58:42.484] [Info] UniverseServer: Stopping UniverseServer
+[20:58:42.487] [Info] UniverseServer: Stopping TCP Server
+[20:58:42.542] [Info] Server shutdown gracefully
+[20:58:42.544] [Info] Root: Shutting down Root
